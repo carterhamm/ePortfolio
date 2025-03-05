@@ -17,38 +17,83 @@ Wagevo simplifies financial management for hourly employees, providing an intuit
 
 ### Calendar View
 
-![Calendar View](/images/CalendarView.png)
-
-Easily keep track of upcoming shifts and past work sessions in one centralized calendar.
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <!-- Image on Left -->
+  <div style="flex: 1; padding: 1em;">
+    <img src="/images/CalendarView.png" alt="Calendar View" style="width: 100%; max-width: 300px;">
+  </div>
+  <!-- Text on Right -->
+  <div style="flex: 1; padding: 1em;">
+    <p>
+      The Calendar View offers a clear overview of all upcoming and past shifts. With a clean and responsive design, employees can quickly see their work schedule, plan ahead, and manage their time effectively.
+    </p>
+  </div>
+</div>
 
 ---
 
 ### Bank View
 
-![Bank View](/images/BankView.png)
-
-Access your wage balance and transaction history at a glance, ensuring you always know where your money is going.
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <!-- Text on Left -->
+  <div style="flex: 1; padding: 1em;">
+    <p>
+      The Bank View provides a detailed summary of your wage balance and transaction history. It keeps you informed about your earnings and spending in real time, offering transparency and control over your finances.
+    </p>
+  </div>
+  <!-- Image on Right -->
+  <div style="flex: 1; padding: 1em;">
+    <img src="/images/BankView.png" alt="Bank View" style="width: 100%; max-width: 300px;">
+  </div>
+</div>
 
 ---
 
 ### Pay View
 
-![Pay View](/images/PayView.png)
-
-Review your paychecks and see when funds become available on your Wagevo debit card.
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <!-- Image on Left -->
+  <div style="flex: 1; padding: 1em;">
+    <img src="/images/PayView.png" alt="Pay View" style="width: 100%; max-width: 300px;">
+  </div>
+  <!-- Text on Right -->
+  <div style="flex: 1; padding: 1em;">
+    <p>
+      In the Pay View, users can review their paychecks, monitor payment dates, and view detailed breakdowns of their earnings. Every detail is at your fingertips, making financial planning simple and efficient.
+    </p>
+  </div>
+</div>
 
 ---
 
 ### Time Clock
 
-![Time Clock](/images/TimeClock.png)
-
-Clock in and out of shifts quickly, with accurate timekeeping that feeds directly into your wage access and paycheck calculations.
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <!-- Text on Left -->
+  <div style="flex: 1; padding: 1em;">
+    <p>
+      The Time Clock function is optimized for speed and accuracy, allowing users to clock in and out effortlessly. Its user-friendly design ensures that time tracking is both reliable and intuitive.
+    </p>
+  </div>
+  <!-- Image on Right -->
+  <div style="flex: 1; padding: 1em;">
+    <img src="/images/TimeClock.png" alt="Time Clock" style="width: 100%; max-width: 300px;">
+  </div>
+</div>
 
 ---
 
 ### Transactions View
 
-![Transactions View](/images/TransactionsView.png)
-
-Stay on top of your spending and budget effectively by reviewing your recent transactions, all within the Wagevo app.
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <!-- Image on Left -->
+  <div style="flex: 1; padding: 1em;">
+    <img src="/images/TransactionsView.png" alt="Transactions View" style="width: 100%; max-width: 300px;">
+  </div>
+  <!-- Text on Right -->
+  <div style="flex: 1; padding: 1em;">
+    <p>
+      The Transactions View lets you stay on top of your spending with detailed records of every transaction. Easily navigate through your financial history to track expenses and manage your budget effectively.
+    </p>
+  </div>
+</div>
