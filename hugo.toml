@@ -1,0 +1,78 @@
+baseURL = "http://www.example.com"
+title = "Carter"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[pagination]
+pagerSize = 5
+
+[services]
+[services.disqus]
+# shortname = "yourdiscussshortname"
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+author = "Carter Hammond"
+description = "Carter Hammond's Portfolio"
+keywords = "blog,developer,personal"
+info = ["Developer"]
+# IMPORTANT: Make sure you actually have the image at static/images/Carter-Hammond.jpeg
+avatarURL = "/images/Carter-Hammond.jpeg"
+dateFormat = "March 23, 2005"
+since = 2025
+commit = "https://github.com/luizdepra/hugo-coder/tree/"
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
+
+[params.googleTagManager]
+id = "GTM-XXXXXXX"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 1
+url = "https://www.linkedin.com/in/carter-n-hammond/"
+
+[[params.social]]
+name = "Signal"
+icon = "fa-brands fa-signal-messenger fa-2x"
+weight = 2
+url = "https://signal.me/#eu/4v4cyR5Q7PgNy-MHCEo_yXRweANQfGXwI7jr3kF_b434EGIlP5tFRpRpFLNULBAP"
+
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 3
+url = "mailto:carter@hammond.com"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projects"
+    url = "projects/"
+    weight = 2
