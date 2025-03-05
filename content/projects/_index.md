@@ -20,7 +20,7 @@ Wagevo simplifies financial management for hourly employees, providing an intuit
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
   <!-- Image on Left -->
   <div style="flex: 1; padding: 1em;">
-    <img src="/images/CalendarView.png" alt="Calendar View" style="width: 100%; max-width: 300px;">
+    <img src="/images/CalendarView.png" alt="Calendar View" style="width: 100%; max-width: 300px !important;">
   </div>
   <!-- Text on Right -->
   <div style="flex: 1; padding: 1em;">
@@ -43,7 +43,7 @@ Wagevo simplifies financial management for hourly employees, providing an intuit
   </div>
   <!-- Image on Right -->
   <div style="flex: 1; padding: 1em;">
-    <img src="/images/BankView.png" alt="Bank View" style="width: 100%; max-width: 300px;">
+    <img src="/images/BankView.png" alt="Bank View" style="width: 100%; max-width: 300px !important;">
   </div>
 </div>
 
@@ -54,7 +54,7 @@ Wagevo simplifies financial management for hourly employees, providing an intuit
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
   <!-- Image on Left -->
   <div style="flex: 1; padding: 1em;">
-    <img src="/images/PayView.png" alt="Pay View" style="width: 100%; max-width: 300px;">
+    <img src="/images/PayView.png" alt="Pay View" style="width: 100%; max-width: 300px !important;">
   </div>
   <!-- Text on Right -->
   <div style="flex: 1; padding: 1em;">
@@ -77,7 +77,7 @@ Wagevo simplifies financial management for hourly employees, providing an intuit
   </div>
   <!-- Image on Right -->
   <div style="flex: 1; padding: 1em;">
-    <img src="/images/TimeClock.png" alt="Time Clock" style="width: 100%; max-width: 300px;">
+    <img src="/images/TimeClock.png" alt="Time Clock View" style="width: 100%; max-width: 300px !important;">
   </div>
 </div>
 
@@ -88,7 +88,7 @@ Wagevo simplifies financial management for hourly employees, providing an intuit
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
   <!-- Image on Left -->
   <div style="flex: 1; padding: 1em;">
-    <img src="/images/TransactionsView.png" alt="Transactions View" style="width: 100%; max-width: 300px;">
+    <img src="/images/TransactionsView.png" alt="Transactions View" style="width: 100%; max-width: 300px !important;">
   </div>
   <!-- Text on Right -->
   <div style="flex: 1; padding: 1em;">
