@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://carterhamm.github.io/ePortfolio/about/</loc>
+    <loc>http://localhost:1313/ePortfolio/about/</loc>
   </url><url>
-    <loc>https://carterhamm.github.io/ePortfolio/authors/</loc>
+    <loc>http://localhost:1313/ePortfolio/authors/</loc>
   </url><url>
-    <loc>https://carterhamm.github.io/ePortfolio/</loc>
+    <loc>http://localhost:1313/ePortfolio/</loc>
   </url><url>
-    <loc>https://carterhamm.github.io/ePortfolio/categories/</loc>
+    <loc>http://localhost:1313/ePortfolio/categories/</loc>
   </url><url>
-    <loc>https://carterhamm.github.io/ePortfolio/series/</loc>
+    <loc>http://localhost:1313/ePortfolio/projects/</loc>
   </url><url>
-    <loc>https://carterhamm.github.io/ePortfolio/tags/</loc>
+    <loc>http://localhost:1313/ePortfolio/series/</loc>
   </url><url>
-    <loc>https://carterhamm.github.io/ePortfolio/projects/</loc>
+    <loc>http://localhost:1313/ePortfolio/tags/</loc>
   </url>
 </urlset>
