@@ -1,9 +1,11 @@
-baseURL = "http://www.example.com"
+baseURL = "https://carterhamm.github.io/ePortfolio/"
 title = "Carter"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
+canonifyURLs = true
+relativeURLs = false
 
 [pagination]
 pagerSize = 5
